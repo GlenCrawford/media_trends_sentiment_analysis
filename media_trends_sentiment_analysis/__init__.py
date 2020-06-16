@@ -1,1 +1,2 @@
+import media_trends_sentiment_analysis.dataset as Dataset
 import media_trends_sentiment_analysis.markov_chain_generator as MarkovChainGenerator
